@@ -1,5 +1,5 @@
 <p>pydoc_graph.py makes the graphs from a csv called "gsd.csv"</p>
-<p>pydoc_image.py makes the docx files based on the template.docx template</p>
+<p>pydoc_image.py makes the docx files and replaces the existing image with the respective graph - uses the template.docx template</p>
 
 User Guide here on YouTube :
 
