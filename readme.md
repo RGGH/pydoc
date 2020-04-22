@@ -1,6 +1,8 @@
-pydoc_graph.py makes the graphs from a csv called "gsd.csv"
-pydoc_image.py makes the docx files based on the template.docx template
-	
+<p>pydoc_graph.py makes the graphs from a csv called "gsd.csv"</p>
+<p>pydoc_image.py makes the docx files based on the template.docx template</p>
+
+User Guide here on YouTube :
+
 <a href="https://github.com/RGGH/pydoc"> https://www.youtube.com/watch?v=4MOcAUctqTA
 
 <a href="https://github.com/RGGH/pydoc">
