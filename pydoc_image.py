@@ -3,7 +3,7 @@ from docxtpl import DocxTemplate
 import os
 
 image_dir = 'templates/images/'
-files = files = [ f for f in os.listdir(image_dir) if os.path.isfile(os.path.join(image_dir,f)) ]
+files = [ f for f in os.listdir(image_dir) if os.path.isfile(os.path.join(image_dir,f)) ]
 
 
 tpl = DocxTemplate('templates/replace_picture_tpl.docx')
